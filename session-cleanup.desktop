@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Session Cleanup
+GenericName=Session Cleanup
+Comment=Revert session and mozilla configuration to original state
+Exec=/opt/gsu/session-cleanup
+Terminal=true
+Type=Application
+Categories=Other;
+StartupNotify=false
